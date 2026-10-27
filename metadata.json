@@ -1,0 +1,6 @@
+{
+  "name": "Apex Megastore - Full-Stack E-Commerce Platform",
+  "description": "Production-style e-commerce megastore with AWS DynamoDB DocumentClient data modeling, Express backend, responsive storefront, and complete checkout with order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
