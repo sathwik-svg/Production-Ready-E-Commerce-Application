@@ -7,6 +7,12 @@ Built as a Software Engineer Intern Task Submission, demonstrating complete soft
 
 ---
 
+## 🔗 Submission Links
+- **GitHub Repository**: [https://github.com/sathwik-svg/Production-Ready-E-Commerce-Application](https://github.com/sathwik-svg/Production-Ready-E-Commerce-Application)
+- **Live Application URL**: [https://ais-pre-jjzchxwicy22ruhu4vp27x-981864576343.asia-east1.run.app](https://ais-pre-jjzchxwicy22ruhu4vp27x-981864576343.asia-east1.run.app)
+
+---
+
 ## 🌟 Key Features
 
 ### 1. Storefront & Catalog Discovery
